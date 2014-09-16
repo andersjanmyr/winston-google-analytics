@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-$ npm install winston-newrelic
+$ npm install winston-google-analytics
 ```
 
 ## Setup
