@@ -1,5 +1,8 @@
 # Winston-google-analytics
 
+A Winstaon transport for Google Analytics
+![Travis-CI](https://travis-ci.org/andersjanmyr/winston-google-analytics.svg?branch=master)
+
 ## Installation
 
 ```
